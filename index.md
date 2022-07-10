@@ -1,5 +1,7 @@
 ## Welcome to Mazidi's Sample Portfolio
 
+Write a couple of sentences about yourself here. 
+
 You can create a similar portfolio by following the instructions [in the document "Create a GitHub Portfolio..."](https://github.com/kjmazidi/Sample_Portfolio/blob/gh-pages/Create%20a%20GitHub%20Portfolio%20for%20Class%20Work.pdf)
 
 ## Portfolio Objective
