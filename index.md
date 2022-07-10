@@ -6,9 +6,10 @@ You can create a similar portfolio by following the instructions [in the documen
 
 This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/kjmazidi/NLP/blob/gh-pages/index.md) class at UTD with Professor Karen Mazidi. 
 
+Students: Your portfolio should have the following components. The link below is to the instructions for each component. Your portfolio page will contain links to your work. 
 
 ## Portfolio Contents
 
-1. Overview of NLP -- a discussion of historical and current trends in NLP, along with my personal goals
+1. [Overview of NLP](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf) -- a discussion of historical and current trends in NLP, along with my personal goals
 
 
