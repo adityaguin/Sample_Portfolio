@@ -12,6 +12,7 @@ There is a corresponding video playlist on [YouTube](https://www.youtube.com/pla
 
 * Chapter 1 Natural Language Processing -- an overview of the NLP field
   * Read the chapter and then take Quiz 1
+  * Take the Prerequisite Survey in eLearning
   * Assignment: Set up your Class Portfolio with instructions here
 
 
