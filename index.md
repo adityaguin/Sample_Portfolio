@@ -9,6 +9,6 @@ This portfolio highlights work done for the [Introduction to Natural Language Pr
 
 ## Portfolio Contents
 
-1. Overview of NLP
+1. Overview of NLP -- a discussion of historical and current trends in NLP, along with my personal goals
 
 
