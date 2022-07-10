@@ -9,11 +9,6 @@ This portfolio highlights work done for the [Introduction to Natural Language Pr
 
 ## Portfolio Contents
 
-1. Add a page "Overview of NLP" in which you:
-    * define NLP
-    * describe the relationship between AI and NLP
-    * write a sentence or two comparing and contrasting natural language understanding and natural language generation
-    * list some examples of NLP applications
-    * write 3 paragraphs described each of the 3 main approaches to NLP, with examples of each approach
-    * write a paragraph describing your personal interest in NLP and whether/how you would like to learn more about NLP for personal projects and/or professional application
+1. Overview of NLP
+
 
